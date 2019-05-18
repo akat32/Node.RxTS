@@ -11,5 +11,4 @@ import { auth } from './routes'
 
 app.get('/signin', auth.signin)
 
-
 export default app
